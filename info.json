@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "1c85a463239be70a80608f3d9c593cfed048e627",
+    "author": "Alessandro Oggioni <oggioniale@gmail.com>",
+    "time": "2022-05-02 10:04:29",
+    "files": 71,
+    "merge": false,
+    "message": "fix the generation for rOpenSci documentation\n"
+  },
+  "repo": "https://github.com/ropensci/ReLTER",
+  "pkg": "ReLTER"
+}
