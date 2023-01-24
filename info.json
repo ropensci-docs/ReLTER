@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d9aa2ce7128e6ff9c7857df4f7bc3febcd1b0c97",
+    "author": "Alessandro Oggioni <oggioniale@gmail.com>",
+    "time": "2023-01-24 09:57:30",
+    "files": 73,
+    "merge": false,
+    "message": "version 2.0.1\n"
+  },
+  "repo": "https://github.com/ropensci/ReLTER",
+  "pkg": "ReLTER"
+}
