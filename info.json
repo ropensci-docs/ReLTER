@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "023bc15b846d24c647f79e3b71eae264871aa7f9",
+    "author": "Alessandro Oggioni <oggioniale@gmail.com>",
+    "time": "2026-07-21T09:41:48Z",
+    "files": 1,
+    "merge": false,
+    "message": "Refactor documentation links to markdown format\n\nUpdated documentation to use markdown links for external resources."
+  },
+  "repo": "https://github.com/ropensci/ReLTER",
+  "pkg": "ReLTER",
+  "time": "2026-08-20T05:15:05Z"
+}
