@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "a18e54a09c28eb1488a94760184ca2a46660ec12",
+    "author": "Alessandro Oggioni <oggioniale@gmail.com>",
+    "time": "2026-10-15T11:23:20Z",
+    "files": 137,
+    "merge": true,
+    "message": "Merge pull request #145 from ropensci/dev\n\nDev"
+  },
+  "repo": "https://github.com/ropensci/ReLTER",
+  "pkg": "ReLTER",
+  "time": "2026-10-15T11:50:52Z"
+}
